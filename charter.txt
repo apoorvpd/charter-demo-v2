@@ -1,4 +1,4 @@
-Group Charter: Team Name 1 (branch 1)
+Group Charter: Team Name 1 (branch 3)
 Meetings: List time
 Group Contacts:
 Goals:
